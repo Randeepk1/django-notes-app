@@ -3,4 +3,4 @@ services :
   web :
      image : dockeruserran/my-node-app:latest
      ports :
-         - "8000:9000"
+         - "9000:9000"
